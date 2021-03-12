@@ -41,11 +41,11 @@ public class TestUno {
     
      @org.testng.annotations.Test
     public void test2(){
-         System.out.println("Tes Systemt 2");
+         System.out.println("Test Systemt 2");
     }
     
      @org.testng.annotations.Test
     public void test3(){
-         System.out.println("Tes Systemt 3");
+         System.out.println("Test Systemt 3");
     }
 }
